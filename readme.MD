@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A ideia do projeto é um site com para criar eventos on-line, como por exemplo um podcast ou um evento ao vivo.
+A ideia do projeto é um site para criar eventos on-line, como por exemplo um podcast ou um evento ao vivo.
 
 ## 🔖 Layout
 
